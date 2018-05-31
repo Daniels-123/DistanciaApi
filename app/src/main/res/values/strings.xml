@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DistanciaApi</string>
+    <string name="lugar_1">Lugar 1</string>
+    <string name="lugar_2">Lugar 2</string>
+    <string name="calcular_distancia">Calcular Distancia</string>
+</resources>
